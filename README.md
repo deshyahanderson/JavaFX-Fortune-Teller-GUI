@@ -4,7 +4,7 @@
 This project implements a fully functional GUI application in Java (utilizing JavaFX) that simulates a digital fortune teller. The application focuses on demonstrating proficient use of layout containers, event handling via buttons, and implementing application logic to ensure a dynamic, engaging user experience. 
 
 ## 🎯 Implementation Goals
-This lab fulfills the following criteria:
+This project fulfills the following criteria:
 
 * **Panel Structure:** Divide the GUI into three distinct panels (`Top`, `Middle`, `Bottom`) to manage layout and component placement effectively.
 * **Event Handling:** Implement button functionality, utilizing a **Lambda Expression** for the `Quit` button as required.
